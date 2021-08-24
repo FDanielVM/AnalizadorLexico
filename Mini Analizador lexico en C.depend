@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629693798 source:c:\users\usuario\desktop\mini analizador lexico en c\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<process.h>
+
