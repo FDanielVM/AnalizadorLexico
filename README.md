@@ -6,9 +6,8 @@ Codigo: 214404155
 
 Universidad de Guadalajara
 
-Este analizador lexico, es un pequeño ejemplo en lenguaje C
-Para poder analizar solamente indices, numeros enteros, y
-numeros con punto decimal.
+Este analizador lexico, es un ejemplo de como utilizar con
+lenguaje C y  condicionales para crear un analizador  lexico.
 
 Para realizar la actividad, simplemente hago uso de condicionales
 a las cuales se les proporciona un solo caracter a la vez, y
